@@ -103,7 +103,7 @@
 <a href="https://cloud.okteto.com/deploy?repository=https://github.com/ITZ-ZAID/Zaid-Vc-Player"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
-ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables Here](https://github.com/ITZ-ZAID/Zaid-Vc-Player), ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
+ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables Here](https://github.com/Heartless64/Zaid-Vc-Player), ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
 
 [![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/ITZ-ZAID/Music-Deploy&envs=SESSION_NAME,BOT_TOKEN,GROUP_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
 
